@@ -1,4 +1,4 @@
-# 小B机场 | 9月8日18.8M/S|免费Shadowrocket节点/Singbox节点/SSR节点/Clash节点/V2ray节点节点推荐  更新时间 2026-09-08 08:30:22
+# 小B机场 | 9月15日21.7M/S|免费Clash节点/Singbox节点/Shadowrocket节点/V2ray节点/SSR节点节点推荐  更新时间 2026-09-15 09:46:49
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://xiaobjichang.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://xiaobjichang.github.io/uploads/2026/09/0-20260908.yaml
-- https://xiaobjichang.github.io/uploads/2026/09/1-20260908.yaml
-- https://xiaobjichang.github.io/uploads/2026/09/2-20260908.yaml
-- https://xiaobjichang.github.io/uploads/2026/09/3-20260908.yaml
-- https://xiaobjichang.github.io/uploads/2026/09/4-20260908.yaml
+- https://xiaobjichang.github.io/uploads/2026/09/0-20260915.yaml
+- https://xiaobjichang.github.io/uploads/2026/09/1-20260915.yaml
+- https://xiaobjichang.github.io/uploads/2026/09/2-20260915.yaml
+- https://xiaobjichang.github.io/uploads/2026/09/3-20260915.yaml
+- https://xiaobjichang.github.io/uploads/2026/09/4-20260915.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://xiaobjichang.github.io/uploads/2026/09/0-20260908.txt
-- https://xiaobjichang.github.io/uploads/2026/09/1-20260908.txt
-- https://xiaobjichang.github.io/uploads/2026/09/2-20260908.txt
-- https://xiaobjichang.github.io/uploads/2026/09/3-20260908.txt
-- https://xiaobjichang.github.io/uploads/2026/09/4-20260908.txt
+- https://xiaobjichang.github.io/uploads/2026/09/0-20260915.txt
+- https://xiaobjichang.github.io/uploads/2026/09/1-20260915.txt
+- https://xiaobjichang.github.io/uploads/2026/09/2-20260915.txt
+- https://xiaobjichang.github.io/uploads/2026/09/3-20260915.txt
+- https://xiaobjichang.github.io/uploads/2026/09/4-20260915.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://xiaobjichang.github.io/uploads/2026/09/20260908.json
+- https://xiaobjichang.github.io/uploads/2026/09/20260915.json
 
 ## 更多Clash节点订阅 ：
 
